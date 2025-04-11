@@ -15,7 +15,7 @@ CCTV12-社会与法
 CCTV13-新闻
 CCTV14-少儿
 CCTV15-音乐
-CCTV-16奥林匹克
+CCTV16-奥林匹克
 CCTV17-农业农村
 CETV1
 CETV2
